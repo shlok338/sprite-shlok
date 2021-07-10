@@ -1,1 +1,1 @@
-# sprite-shlok
+# canvas-sprite-animation
